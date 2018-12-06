@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExercises", "DateTimeExercises\DateTimeExercises.csproj", "{BD3173BF-9A52-486E-81E3-0D12FCD39182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateProps", "DateProps\DateProps.csproj", "{8FD6F30B-EA7A-4241-826E-EA07BA3EAF2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD3173BF-9A52-486E-81E3-0D12FCD39182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD3173BF-9A52-486E-81E3-0D12FCD39182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD3173BF-9A52-486E-81E3-0D12FCD39182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD6F30B-EA7A-4241-826E-EA07BA3EAF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD6F30B-EA7A-4241-826E-EA07BA3EAF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD6F30B-EA7A-4241-826E-EA07BA3EAF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD6F30B-EA7A-4241-826E-EA07BA3EAF2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
