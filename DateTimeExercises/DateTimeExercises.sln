@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAddition", "TimeAdditio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilliSeconds", "MilliSeconds\MilliSeconds.csproj", "{DB25F8BE-A8E3-4543-A87B-70E1C5B59051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15YearsPastFuture", "15YearsPastFuture\15YearsPastFuture.csproj", "{C79F9C90-C2D1-4AB1-8B2E-9A46C079A71A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DB25F8BE-A8E3-4543-A87B-70E1C5B59051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB25F8BE-A8E3-4543-A87B-70E1C5B59051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB25F8BE-A8E3-4543-A87B-70E1C5B59051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79F9C90-C2D1-4AB1-8B2E-9A46C079A71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79F9C90-C2D1-4AB1-8B2E-9A46C079A71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79F9C90-C2D1-4AB1-8B2E-9A46C079A71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79F9C90-C2D1-4AB1-8B2E-9A46C079A71A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
