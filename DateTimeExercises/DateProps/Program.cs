@@ -17,16 +17,17 @@ namespace DateProps
             var dateH = dateDefault.ToString("HH");
             var dateMin = dateDefault.ToString("mm");
             var dateS = dateDefault.ToString("ss");
-            var dateMS = dateDefault.ToString("");
+            var dateMS = dateDefault.ToString("fff");
 
             Console.WriteLine
                 (
-                    $"Year:\t{dateY}" +
-                    $"\nMonth:\t{dateM}" +
-                    $"\nDay:\t{dateD}" +
-                    $"\nHour:\t{dateH}" +
-                    $"\nMinute:\t{dateMin}" +
-                    $"\nSecond:\t{dateS}"
+                    $"Year:\t\t{dateY}" +
+                    $"\nMonth:\t\t{dateM}" +
+                    $"\nDay:\t\t{dateD}" +
+                    $"\nHour:\t\t{dateH}" +
+                    $"\nMinute:\t\t{dateMin}" +
+                    $"\nSecond:\t\t{dateS}" +
+                    $"\nmillisecond:\t{dateMS}"
                 );
         }
     }
