@@ -17,7 +17,7 @@ namespace DateProps
             var dateH = dateDefault.ToString("HH");
             var dateMin = dateDefault.ToString("mm");
             var dateS = dateDefault.ToString("ss");
-            var dateMS = dateDefault.ToString("fff");
+            var dateMs = dateDefault.ToString("fff");
 
             Console.WriteLine
                 (
@@ -27,7 +27,7 @@ namespace DateProps
                     $"\nHour:\t\t{dateH}" +
                     $"\nMinute:\t\t{dateMin}" +
                     $"\nSecond:\t\t{dateS}" +
-                    $"\nmillisecond:\t{dateMS}"
+                    $"\nmillisecond:\t{dateMs}"
                 );
         }
     }
