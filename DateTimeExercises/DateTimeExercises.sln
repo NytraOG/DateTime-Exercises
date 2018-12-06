@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeArray", "DateTimeAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingDays", "AddingDays\AddingDays.csproj", "{1B51B08B-65BF-455C-96D7-62FA32F505CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAddition", "TimeAddition\TimeAddition.csproj", "{32AE2715-4D1F-4E33-8971-B5ADF8A3EC67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1B51B08B-65BF-455C-96D7-62FA32F505CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B51B08B-65BF-455C-96D7-62FA32F505CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B51B08B-65BF-455C-96D7-62FA32F505CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AE2715-4D1F-4E33-8971-B5ADF8A3EC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AE2715-4D1F-4E33-8971-B5ADF8A3EC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AE2715-4D1F-4E33-8971-B5ADF8A3EC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AE2715-4D1F-4E33-8971-B5ADF8A3EC67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
