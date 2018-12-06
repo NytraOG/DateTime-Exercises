@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateProps", "DateProps\Date
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificDayOfDate", "SpecificDayOfDate\SpecificDayOfDate.csproj", "{FD35B8AE-A2CC-4CAA-A2B9-0E0638CA2C58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoOfDaysInYear", "NoOfDaysInYear\NoOfDaysInYear.csproj", "{3C80930C-6233-4E7B-BD93-290466532209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FD35B8AE-A2CC-4CAA-A2B9-0E0638CA2C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD35B8AE-A2CC-4CAA-A2B9-0E0638CA2C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD35B8AE-A2CC-4CAA-A2B9-0E0638CA2C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C80930C-6233-4E7B-BD93-290466532209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C80930C-6233-4E7B-BD93-290466532209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C80930C-6233-4E7B-BD93-290466532209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C80930C-6233-4E7B-BD93-290466532209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
